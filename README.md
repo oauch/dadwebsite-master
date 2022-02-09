@@ -6,7 +6,7 @@
 >링크는 다음과 같습니다.
 <br>
 
-**[홈페이지 주소](www.rocketgas.gs)**
+**[홈페이지 주소](www.rocketgas.ga)**
 <br>
 <br>
 >구성은 다음과 같습니다.
