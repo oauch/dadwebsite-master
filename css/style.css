@@ -86,7 +86,8 @@ body{
   margin-bottom: 10px;
 }
 #progress span{
-  font-size: 17px;
+  font-size: 18px;
+  line-height: 200%;
 }
 
 /* 푸터 */
@@ -146,8 +147,11 @@ main a.Home {
 }
 .advantage .advantage1_explain2{
   font-size: 20px;
-  margin: 5%;
+  line-height: 200%;
+  margin: 5% 5% 10% 5%;
 }
+
+
 .sv_section1 .service1{
   text-align: center;
   text-decoration: overline;
@@ -336,7 +340,7 @@ td{
   #banner .banner_img_fix{
     margin-top: 20%;
   }
-  .effect{margin-top: 10%;}
+  .effect{margin-top: 15%;}
 }
 /* 화면너비 0 ~ 480px */
 @media (max-width: 480px){
@@ -350,10 +354,10 @@ td{
 @media (max-width: 425px){
   .advantage img{width: 50%;}
   .advantage .advantage_title{font-size: 23px;}
-  .advantage .advantage1_explain1{font-size: 18px;}
-  .advantage .advantage1_explain2{font-size: 18px;}
-  .sv_section1 .service1_1{font-size: 18px;}
-  .sv_section2 .service2_1{font-size: 18px;}
+  .advantage .advantage1_explain1{font-size: 20px;}
+  .advantage .advantage1_explain2{font-size: 20px;}
+  .sv_section1 .service1_1{font-size: 17px;}
+  .sv_section2 .service2_1{font-size: 20px;}
   .QA_section1 .QA1{font-size: 40px;}
 }
 /* 화면너비 0 ~ 320px */
