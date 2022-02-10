@@ -135,9 +135,10 @@ main a.Home {
   margin-left: 5%;
   margin-right: 5%;
 }
+
 .advantage .advantage_title{
   font-size: 30px;
-  margin: 5% 0 10% 0;
+  margin: 5% 0 150px 0;
   font-weight: bold;
 }
 .advantage .advantage1_explain1{
@@ -147,8 +148,13 @@ main a.Home {
 }
 .advantage .advantage1_explain2{
   font-size: 20px;
+  line-height: 150%;
+  margin: 5% 5% 150px 5%;
+}
+.advantage .advantage1_explain3{
+  font-size: 20px;
   line-height: 200%;
-  margin: 5% 5% 10% 5%;
+  margin: 5% 5% 150px 5%;
 }
 
 
