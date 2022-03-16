@@ -185,6 +185,11 @@ main a.Home {
   margin-left: 5%;
   margin-right: 5%;
 }
+
+.sv_section1 .service1_1 img{
+  width: 90%;
+}
+
 .sv_section2 .service2{
   text-align: center;
   text-decoration: overline;
